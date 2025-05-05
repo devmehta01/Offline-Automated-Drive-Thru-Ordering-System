@@ -19,7 +19,9 @@ This project presents a comprehensive offline, AI-driven drive-thru ordering sys
 
 ## 📸 Demonstration
 
-> _Coming soon_: A walkthrough video or animated showcase.
+[![Watch the demo](Automated%20Drive%20Thru%20Ordering%20System%20Demo.jpg)](https://www.linkedin.com/posts/dev-milan-mehta_built-an-offline-ai-powered-drive-thru-activity-7323868471283326976-6g7O/?utm_source=share&utm_medium=member_android&rcm=ACoAADFIrrkBMmWYZ9wrJA4xkPRVtoM1mxVH5Uw)
+
+> Click the image to watch the full demo on LinkedIn.
 
 ---
 
