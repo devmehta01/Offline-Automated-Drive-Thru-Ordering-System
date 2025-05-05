@@ -1,0 +1,4 @@
+known_faces/
+models/
+app/assets/
+trained_model.yml

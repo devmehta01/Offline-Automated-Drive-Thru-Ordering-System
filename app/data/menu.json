@@ -1,0 +1,45 @@
+{
+  "Appetizers": [
+    {
+      "name": "French Fries",
+      "price": 3.00,
+      "image": "app/assets/fries.png"
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": 4.50,
+      "image": "app/assets/mozzarella.png"
+    }
+  ],
+  "Entree": [
+    {
+      "name": "Burger",
+      "price": 5.00,
+      "image": "app/assets/burger.png"
+    },
+    {
+      "name": "Grilled Cheese",
+      "price": 4.00,
+      "image": "app/assets/grilled_cheese.png"
+    }
+  ],
+  "Dessert": [
+    {
+      "name": "Ice Cream",
+      "price": 2.50,
+      "image": "app/assets/ice_cream.png"
+    }
+  ],
+  "Drinks": [
+    {
+      "name": "Soda",
+      "price": 2.00,
+      "image": "app/assets/soda.png"
+    },
+    {
+      "name": "Lemonade",
+      "price": 2.50,
+      "image": "app/assets/lemonade.png"
+    }
+  ]
+}

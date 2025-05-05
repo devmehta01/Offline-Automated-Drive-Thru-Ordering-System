@@ -1,0 +1,11 @@
+opencv-python
+opencv-contrib-python
+PyQt5
+pyttsx3
+vosk
+sounddevice
+langchain-ollama
+langchain
+langchain-community
+requests
+pydantic
